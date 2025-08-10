@@ -28,7 +28,7 @@ A simple yet powerful Bash script to streamline the management of your Visual-St
 
     ```bash
     git clone https://github.com/CYBWithFlourish/VSCode-Ext-Manager.git
-    cd your-repo-name
+    cd VSCode-Ext-Manager
     ```
 
 2.  Make the script executable:
